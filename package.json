@@ -1,0 +1,14 @@
+{
+  "name": "rsa-wrapper",
+  "version": "1.0.0",
+  "description": "Sign & Verify data using RSA Public Key Cryptography",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amar Thakur <amarthakur0@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-rsa": "^1.0.1"
+  }
+}
